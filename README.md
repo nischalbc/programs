@@ -15,7 +15,7 @@
 - Find greatest of 3 numbers.
 
 
-## Intermiate
+## Intermediate
 - Linear Search
 - Binary Search
 - Quick Sort
